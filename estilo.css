@@ -1,7 +1,47 @@
 body{
-    background-color:#D991AB ;
-    color: #BF212E
+    background-color: #F2C2CF
+     ;
+    color: #F24182;
+    margin: 0;
+    padding: 0;
+    
+
+
 }
 h1{
-    color: #A60303
+    color: #F24998
+}
+
+div{
+    background-color: #F2ACC6 ;
+    padding: 20px ;
+    margin: 15px 100px;
+    border-radius: 60px;
+    box-shadow: 10px 5px 5px ;
+
+
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.img img{
+    height: 350px;
+    margin-top: -380px;
+    border-radius: 105%;
+    box-shadow: 10px 5px 5px ;
+}
+.introducao{
+    margin-top: 370px;
+}
+
+footer{
+    background-color: #F2ACC6 ;
+    text-align: center;
+    padding: 7px 0 ;
+    
 }
